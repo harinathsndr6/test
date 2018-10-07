@@ -1,1 +1,5 @@
-asfdasfddf
+public class test{
+public static void main{string[] args){
+system.out.println("hello world this is har");
+}
+} 
